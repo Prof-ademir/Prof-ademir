@@ -1,0 +1,22 @@
+h2 {
+    color:blue
+}
+
+body{ 
+    background-color: rgb(53, 212, 212);
+    color:azure;
+    font-family: roboto;
+    text-align: center;
+
+    header{
+        border-bottom: 1px solid grey ;
+
+    }
+
+    footer{
+        border-top: 1px solid grey ;
+    }
+
+    
+
+}
