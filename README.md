@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Prof-ademir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Prof-ademir/Prof-ademir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Bem vindo ao meu perfil : 💖
+- Meu nome é Ademir Augusto.
+- Estou estudando na alura start;
+- Estou me desenvolvendo na linguagem de programação javaScript;
+- Sou professor do estado de São Paulo na disciplina de Tecnologia da informação;
+- Meu objetivo é adquirir conhecimento na área de programação e passar
+-  para meu alunos.
